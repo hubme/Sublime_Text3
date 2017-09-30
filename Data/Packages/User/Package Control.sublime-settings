@@ -1,0 +1,27 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"AutoFileName",
+		"ConvertToUTF8",
+		"CTags",
+		"Emmet",
+		"Expand Group",
+		"Git",
+		"Gitignore",
+		"IMESupport",
+		"Material Theme - White Panels",
+		"Materialize-Appbar",
+		"Monokai JSON+",
+		"Open Folder",
+		"Package Control",
+		"Pretty JSON",
+		"SideBarEnhancements",
+		"Theme - Brogrammer",
+		"TrailingSpaces"
+	]
+}

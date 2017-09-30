@@ -1,0 +1,1 @@
+{"description": "Materialize addon to enable tinted appbar for your Sublime Text", "sublime_text": ">=3000", "version": "1.0.3", "platforms": ["*"], "url": "https://packagecontrol.io/packages/Materialize-Appbar", "dependencies": []}

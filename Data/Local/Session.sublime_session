@@ -1,0 +1,752 @@
+{
+	"folder_history":
+	[
+		"/E/Android/github/ShadowImageView",
+		"/E/Android/github/AndroidSwipeLayout",
+		"/C/Users/VanceKing/Desktop/Android知识点图片",
+		"/C/Users/VanceKing/Desktop/Sublime_Text3_build3143_x64"
+	],
+	"last_version": 3143,
+	"last_window_id": 9,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 666.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"c",
+						"cos\tconstant string"
+					],
+					[
+						"for",
+						"fore\tfor (each)"
+					],
+					[
+						"f",
+						"fore\tfor (each)"
+					],
+					[
+						"com",
+						"command"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 400.0,
+				"last_filter": "pci",
+				"selected_items":
+				[
+					[
+						"pci",
+						"Package Control: Install Package"
+					],
+					[
+						"prp",
+						"Package Control: Remove Package"
+					],
+					[
+						"openf",
+						"View: Toggle Open Files in Side Bar"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"ctags",
+						"CTags: Show Symbols (file)"
+					],
+					[
+						"json",
+						"Set Syntax: JSON"
+					],
+					[
+						"git",
+						"Set Syntax: Git Graph"
+					],
+					[
+						"list pack",
+						"Package Control: List Packages"
+					],
+					[
+						"syntax ",
+						"Set Syntax: Java"
+					],
+					[
+						"packremo",
+						"Package Control: Remove Package"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Install Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"instll",
+						"Package Control: Install Local Dependency"
+					]
+				],
+				"width": 454.0
+			},
+			"console":
+			{
+				"height": 130.0,
+				"history":
+				[
+					"install",
+					"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+					"install"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/E/Soft/Sublime_Text3_build3143_x64/Data/Packages/User/Side Bar Folders.sublime-settings",
+				"/E/Android/github/AndroidSwipeLayout/LICENSE",
+				"/C/Users/Administrator/Desktop/51city.json",
+				"/E/Soft/Sublime_Text3_build3143_x64/Data/Packages/User/Preferences.sublime-settings",
+				"/E/Android/github/AndroidSwipeLayout/gradle.properties",
+				"/C/Users/Administrator/Desktop/rnbuild.gradle",
+				"/C/Users/Administrator/Desktop/公积金/接口/全部服务.json",
+				"/C/Users/Administrator/Desktop/textview_attrs.xml",
+				"/E/Android/github/AndroidSwipeLayout/library/src/main/java/com/daimajia/swipe/SwipeLayout.java",
+				"/E/Android/github/AndroidSwipeLayout/demo/src/main/java/com/daimajia/swipedemo/RecyclerViewExample.java",
+				"/E/Soft/Sublime_Text3_build3143_x64/Data/Packages/Default/Preferences.sublime-settings",
+				"/C/apache-tomcat-9.0.0.M11/webapps/pic/zhongqiu.jpg",
+				"/C/adcfg.json",
+				"/C/Users/Administrator/Desktop/AppUtil.java",
+				"/C/Users/Administrator/Desktop/IDCard.java",
+				"/E/Java程序员应该了解的10个面向对象设计原则.txt",
+				"/C/Users/VanceKing/Desktop/Android Studio快捷键.txt",
+				"/C/Users/VanceKing/Desktop/Sublime_Text3_build3143_x64/Data/Packages/Default/Preferences.sublime-settings",
+				"/C/Users/VanceKing/Desktop/Sublime_Text3_build3143_x64/Data/Packages/User/Default (Windows).sublime-keymap",
+				"/C/Users/VanceKing/Desktop/Sublime_Text3_build3143_x64/Data/Packages/Default/Default (Windows).sublime-keymap",
+				"/C/Users/VanceKing/Desktop/Sublime_Text3_build3143_x64/sublime_addright.inf",
+				"/C/Users/Zero/Desktop/Sublime Text2/Data/Packages/ZZZ/Main.sublime-menu",
+				"/C/Users/Zero/Desktop/新建文件夹 (3)/Data/Packages/Simplified Chinese/Main.sublime-menu",
+				"/C/Users/Zero/Desktop/Sublime Text2/Data/Packages/Default/Main.sublime-menu",
+				"/C/Users/Zero/Desktop/新建文件夹 (3)/Data/Packages/Default/Main.sublime-menu",
+				"/C/Users/Zero/Desktop/新建文件夹 (3)/Data/Local/Auto Save Session.sublime_session",
+				"/C/Users/Zero/Desktop/Main.sublime-menu",
+				"/C/Users/Zero/Desktop/新建文件夹 (3)/Data/Packages/User/Package Control.sublime-settings",
+				"/C/Users/Zero/Desktop/Default.sublime-package",
+				"/C/Users/Zero/AppData/Local/Temp/7zE8A74CDB9/Default.sublime-package",
+				"/C/Users/Zero/Desktop/新建文件夹 (3)/Data/Packages/User/Preferences.sublime-settings",
+				"/C/Users/Zero/Desktop/新建文件夹 (3)/Data/Packages/ConvertToUTF8/Main.sublime-menu",
+				"/C/Users/Zero/Desktop/Sublime Text/Data/Packages/LocalizedMenu/.menu.json",
+				"/C/Users/Zero/Desktop/Sublime Text/Data/Packages/LocalizedMenu/menu/3126/zh_CN/Main.sublime-menu.json",
+				"/C/Users/Zero/Desktop/Sublime Text/Data/Packages/LocalizedMenu/.no-sublime-package",
+				"/C/Users/Zero/Desktop/Sublime Text/Data/Packages/LocalizedMenu/LocalizedMenu.sublime-settings",
+				"/C/Users/Zero/Desktop/Sublime Text/Data/Packages/LocalizedMenu/LocalizedMenu.sublime-commands",
+				"/C/Users/Zero/Desktop/Sublime Text/Data/Packages/ZZZZZZZZ-LocalizedMenu/Main.sublime-menu",
+				"/E/小说/混世刁民.txt",
+				"/C/Users/Zero/Desktop/Sublime Text/Data/Packages/Default/Main.sublime-menu",
+				"/C/Users/Zero/Desktop/Sublime Text/Data/Packages/Default/Minimap.sublime-settings",
+				"/C/Users/Zero/Desktop/新建文件夹 (3)/Data/Packages/Default/Side Bar Mount Point.sublime-menu",
+				"/C/Users/Zero/Desktop/新建文件夹 (3)/Data/Packages/Default/Side Bar.sublime-menu",
+				"/C/Users/Zero/Desktop/新建文件夹 (3)/Data/Packages/Default/Syntax.sublime-menu",
+				"/C/Users/Zero/Desktop/新建文件夹 (3)/Data/Packages/Default/Find in Files.sublime-menu",
+				"/C/Users/Zero/Desktop/新建文件夹 (3)/Data/Packages/Default/Encoding.sublime-menu",
+				"/C/Users/Zero/Desktop/新建文件夹 (3)/Data/Packages/Default/Tab Context.sublime-menu",
+				"/C/Users/Zero/Desktop/新建文件夹 (3)/Data/Packages/Default/Context.sublime-menu",
+				"/C/Users/Zero/Desktop/新建文件夹 (3)/Data/Packages/Default/Widget Context.sublime-menu",
+				"/C/Users/Zero/Desktop/Sublime Text/Data/Packages/Default/Preferences.sublime-settings",
+				"/C/Users/Zero/Desktop/新建文件夹 (3)/Data/Packages/zh_CN/Main.sublime-menu",
+				"/C/Users/Zero/Desktop/新建文件夹 (3)/Data/Packages/ConvertToUTF8/README.zh_CN.md",
+				"/C/Users/Zero/Desktop/新建文件夹 (3)/Data/Packages/User/111.sublime-settings",
+				"/C/Users/Zero/Desktop/新建文件夹 (3)/Data/Packages/zh_CN/Main.sublime-menu.json",
+				"/C/Users/Zero/Desktop/新建文件夹 (3)/Data/Packages/ZH/Main.sublime-menu.json",
+				"/C/Users/Zero/Desktop/新建文件夹 (3)/Data/Packages/ZH/Main.sublime-menu",
+				"/C/Users/Zero/Desktop/新建文件夹 (3)/Data/Packages/LocalizedMenu/Main.sublime-menu",
+				"/C/Users/Zero/Desktop/Sublime Text/Data/Packages/ZZZ/Main.sublime-menu",
+				"/C/Users/Zero/Desktop/Q-2017年E-learning系统开发-相达 - 中标-改.xlsx"
+			],
+			"find":
+			{
+				"height": 30.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"设置",
+					"插件设置",
+					"项目",
+					"选项",
+					"设置"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 30.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 56.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"recy",
+						"demo\\src\\main\\java\\com\\daimajia\\swipedemo\\RecyclerViewExample.java"
+					],
+					[
+						"swipelayout",
+						"library\\src\\main\\java\\com\\daimajia\\swipe\\SwipeLayout.java"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": false,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 336.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 1189.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"c",
+						"cos\tconstant string"
+					],
+					[
+						"for",
+						"fore\tfor (each)"
+					],
+					[
+						"f",
+						"fore\tfor (each)"
+					],
+					[
+						"com",
+						"command"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/E/Android/github/ShadowImageView/app/src/main/java/com/yinglan/shadowdemo/MainActivity.java",
+					"settings":
+					{
+						"buffer_size": 4198,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/E/Android/github/ShadowImageView/app/src/main/res/layout/activity_main.xml",
+					"settings":
+					{
+						"buffer_size": 1051,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/E/Android/github/ShadowImageView/shadowimageview/src/main/java/com/yinglan/shadowimageview/ShadowImageView.java",
+					"settings":
+					{
+						"buffer_size": 7323,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 400.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"pci",
+						"Package Control: Install Package"
+					],
+					[
+						"prp",
+						"Package Control: Remove Package"
+					],
+					[
+						"openf",
+						"View: Toggle Open Files in Side Bar"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"ctags",
+						"CTags: Show Symbols (file)"
+					],
+					[
+						"json",
+						"Set Syntax: JSON"
+					],
+					[
+						"git",
+						"Set Syntax: Git Graph"
+					],
+					[
+						"list pack",
+						"Package Control: List Packages"
+					],
+					[
+						"syntax ",
+						"Set Syntax: Java"
+					],
+					[
+						"packremo",
+						"Package Control: Remove Package"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Install Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"instll",
+						"Package Control: Install Local Dependency"
+					]
+				],
+				"width": 454.0
+			},
+			"console":
+			{
+				"height": 130.0,
+				"history":
+				[
+					"install",
+					"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+					"install"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+			],
+			"file_history":
+			[
+				"/E/Android/github/ShadowImageView/app/build.gradle",
+				"/E/Android/github/ShadowImageView/shadowimageview/build.gradle",
+				"/E/Android/github/ShadowImageView/build.gradle",
+				"/E/Android/github/AndroidSwipeLayout/gradle.properties",
+				"/E/Soft/Sublime_Text3_build3143_x64/Data/Packages/User/Preferences.sublime-settings",
+				"/E/Android/github/AndroidSwipeLayout/library/src/main/java/com/daimajia/swipe/SwipeLayout.java",
+				"/C/Users/Administrator/Desktop/51city.json",
+				"/E/Android/github/AndroidSwipeLayout/LICENSE",
+				"/E/Soft/Sublime_Text3_build3143_x64/Data/Packages/User/Side Bar Folders.sublime-settings",
+				"/C/Users/Administrator/Desktop/rnbuild.gradle",
+				"/C/Users/Administrator/Desktop/公积金/接口/全部服务.json",
+				"/C/Users/Administrator/Desktop/textview_attrs.xml",
+				"/E/Android/github/AndroidSwipeLayout/demo/src/main/java/com/daimajia/swipedemo/RecyclerViewExample.java",
+				"/E/Soft/Sublime_Text3_build3143_x64/Data/Packages/Default/Preferences.sublime-settings",
+				"/C/apache-tomcat-9.0.0.M11/webapps/pic/zhongqiu.jpg",
+				"/C/adcfg.json",
+				"/C/Users/Administrator/Desktop/AppUtil.java",
+				"/C/Users/Administrator/Desktop/IDCard.java",
+				"/E/Java程序员应该了解的10个面向对象设计原则.txt",
+				"/C/Users/VanceKing/Desktop/Android Studio快捷键.txt",
+				"/C/Users/VanceKing/Desktop/Sublime_Text3_build3143_x64/Data/Packages/Default/Preferences.sublime-settings",
+				"/C/Users/VanceKing/Desktop/Sublime_Text3_build3143_x64/Data/Packages/User/Default (Windows).sublime-keymap",
+				"/C/Users/VanceKing/Desktop/Sublime_Text3_build3143_x64/Data/Packages/Default/Default (Windows).sublime-keymap",
+				"/C/Users/VanceKing/Desktop/Sublime_Text3_build3143_x64/sublime_addright.inf",
+				"/C/Users/Zero/Desktop/Sublime Text2/Data/Packages/ZZZ/Main.sublime-menu",
+				"/C/Users/Zero/Desktop/新建文件夹 (3)/Data/Packages/Simplified Chinese/Main.sublime-menu",
+				"/C/Users/Zero/Desktop/Sublime Text2/Data/Packages/Default/Main.sublime-menu",
+				"/C/Users/Zero/Desktop/新建文件夹 (3)/Data/Packages/Default/Main.sublime-menu",
+				"/C/Users/Zero/Desktop/新建文件夹 (3)/Data/Local/Auto Save Session.sublime_session",
+				"/C/Users/Zero/Desktop/Main.sublime-menu",
+				"/C/Users/Zero/Desktop/新建文件夹 (3)/Data/Packages/User/Package Control.sublime-settings",
+				"/C/Users/Zero/Desktop/Default.sublime-package",
+				"/C/Users/Zero/AppData/Local/Temp/7zE8A74CDB9/Default.sublime-package",
+				"/C/Users/Zero/Desktop/新建文件夹 (3)/Data/Packages/User/Preferences.sublime-settings",
+				"/C/Users/Zero/Desktop/新建文件夹 (3)/Data/Packages/ConvertToUTF8/Main.sublime-menu",
+				"/C/Users/Zero/Desktop/Sublime Text/Data/Packages/LocalizedMenu/.menu.json",
+				"/C/Users/Zero/Desktop/Sublime Text/Data/Packages/LocalizedMenu/menu/3126/zh_CN/Main.sublime-menu.json",
+				"/C/Users/Zero/Desktop/Sublime Text/Data/Packages/LocalizedMenu/.no-sublime-package",
+				"/C/Users/Zero/Desktop/Sublime Text/Data/Packages/LocalizedMenu/LocalizedMenu.sublime-settings",
+				"/C/Users/Zero/Desktop/Sublime Text/Data/Packages/LocalizedMenu/LocalizedMenu.sublime-commands",
+				"/C/Users/Zero/Desktop/Sublime Text/Data/Packages/ZZZZZZZZ-LocalizedMenu/Main.sublime-menu",
+				"/E/小说/混世刁民.txt",
+				"/C/Users/Zero/Desktop/Sublime Text/Data/Packages/Default/Main.sublime-menu",
+				"/C/Users/Zero/Desktop/Sublime Text/Data/Packages/Default/Minimap.sublime-settings",
+				"/C/Users/Zero/Desktop/新建文件夹 (3)/Data/Packages/Default/Side Bar Mount Point.sublime-menu",
+				"/C/Users/Zero/Desktop/新建文件夹 (3)/Data/Packages/Default/Side Bar.sublime-menu",
+				"/C/Users/Zero/Desktop/新建文件夹 (3)/Data/Packages/Default/Syntax.sublime-menu",
+				"/C/Users/Zero/Desktop/新建文件夹 (3)/Data/Packages/Default/Find in Files.sublime-menu",
+				"/C/Users/Zero/Desktop/新建文件夹 (3)/Data/Packages/Default/Encoding.sublime-menu",
+				"/C/Users/Zero/Desktop/新建文件夹 (3)/Data/Packages/Default/Tab Context.sublime-menu",
+				"/C/Users/Zero/Desktop/新建文件夹 (3)/Data/Packages/Default/Context.sublime-menu",
+				"/C/Users/Zero/Desktop/新建文件夹 (3)/Data/Packages/Default/Widget Context.sublime-menu",
+				"/C/Users/Zero/Desktop/Sublime Text/Data/Packages/Default/Preferences.sublime-settings",
+				"/C/Users/Zero/Desktop/新建文件夹 (3)/Data/Packages/zh_CN/Main.sublime-menu",
+				"/C/Users/Zero/Desktop/新建文件夹 (3)/Data/Packages/ConvertToUTF8/README.zh_CN.md",
+				"/C/Users/Zero/Desktop/新建文件夹 (3)/Data/Packages/User/111.sublime-settings",
+				"/C/Users/Zero/Desktop/新建文件夹 (3)/Data/Packages/zh_CN/Main.sublime-menu.json",
+				"/C/Users/Zero/Desktop/新建文件夹 (3)/Data/Packages/ZH/Main.sublime-menu.json",
+				"/C/Users/Zero/Desktop/新建文件夹 (3)/Data/Packages/ZH/Main.sublime-menu",
+				"/C/Users/Zero/Desktop/新建文件夹 (3)/Data/Packages/LocalizedMenu/Main.sublime-menu",
+				"/C/Users/Zero/Desktop/Sublime Text/Data/Packages/ZZZ/Main.sublime-menu",
+				"/C/Users/Zero/Desktop/Q-2017年E-learning系统开发-相达 - 中标-改.xlsx"
+			],
+			"find":
+			{
+				"height": 40.0
+			},
+			"find_in_files":
+			{
+				"height": 109.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"setImageRadius",
+					"SwipeListener",
+					"设置",
+					"插件设置",
+					"项目",
+					"选项",
+					"设置"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "E:\\Android\\github\\ShadowImageView"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 2,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/E/Android/github/ShadowImageView/app/src/main/java/com/yinglan/shadowdemo/MainActivity.java",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 4198,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1133,
+										1146
+									]
+								],
+								"settings":
+								{
+									"side_bar_folders_auto_load_folder": 1,
+									"syntax": "Packages/Java/Java.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 132.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/E/Android/github/ShadowImageView/app/src/main/res/layout/activity_main.xml",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1051,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										798,
+										813
+									]
+								],
+								"settings":
+								{
+									"origin_encoding": "ASCII",
+									"side_bar_folders_auto_load_folder": 1,
+									"syntax": "Packages/XML/XML.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/E/Android/github/ShadowImageView/shadowimageview/src/main/java/com/yinglan/shadowimageview/ShadowImageView.java",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 7323,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										7320,
+										7320
+									]
+								],
+								"settings":
+								{
+									"side_bar_folders_auto_load_folder": 1,
+									"syntax": "Packages/Java/Java.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 3755.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 30.0
+			},
+			"input":
+			{
+				"height": 39.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,2,3,-32000,-32000,-1,-1,995,286,175,1815",
+			"project": "",
+			"replace":
+			{
+				"height": 56.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"shadowimageview.",
+						"shadowimageview\\src\\main\\java\\com\\yinglan\\shadowimageview\\ShadowImageView.java"
+					],
+					[
+						"activity_main",
+						"app\\src\\main\\res\\layout\\activity_main.xml"
+					],
+					[
+						"mainactivity",
+						"app\\src\\main\\java\\com\\yinglan\\shadowdemo\\MainActivity.java"
+					],
+					[
+						"recy",
+						"demo\\src\\main\\java\\com\\daimajia\\swipedemo\\RecyclerViewExample.java"
+					],
+					[
+						"swipelayout",
+						"library\\src\\main\\java\\com\\daimajia\\swipe\\SwipeLayout.java"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": false,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 336.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 1,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}
